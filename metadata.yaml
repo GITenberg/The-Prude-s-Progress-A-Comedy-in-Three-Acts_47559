@@ -1,4 +1,8 @@
 _repo: The-Prude-s-Progress-A-Comedy-in-Three-Acts_47559
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Jerome, Jerome K. (Jerome Klapka)
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/665
     wikipedia: http://en.wikipedia.org/wiki/Eden_Phillpotts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47559#The-Prude-s-Progress-A-Comedy-in-Three-Acts
 gutenberg_issued: '2014-12-06'
 gutenberg_type: Text
 identifiers:
